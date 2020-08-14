@@ -1,10 +1,7 @@
 <template>
     <div>
-        login ZUIJAN 
-<<<<<<< HEAD
-=======
         测试秀挨过的login
->>>>>>> ceshi
+
     </div>
 </template>
 
