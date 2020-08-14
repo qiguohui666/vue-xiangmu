@@ -1,16 +1,25 @@
 <template>
   <div id="app">
-      <LOGIN />
+
+    <aaa />
+    <login />
+
   </div>
 </template>
 
 <script>
-import LOGIN from './pages/login'
+
+import aaa from './components/AAA'
+import login from './pages/login'
+
 
 export default {
   name: 'App',
   components: {
-    LOGIN
+
+    aaa,
+    login
+
   }
 }
 </script>
